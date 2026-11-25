@@ -63,3 +63,9 @@ For one example mixture with a curing age of 28 days, the model predicted a comp
 The results show that Random Forest can predict concrete compressive strength more accurately than Linear Regression.
 
 The model may help estimate concrete strength using mixture ingredients and curing age, but it should not replace laboratory testing for construction safety.
+
+## Live Streamlit Application
+
+I created an interactive Streamlit application that allows users to enter concrete mixture values and predict compressive strength using the trained Random Forest model.
+
+**Application Link:** [Open Concrete Strength Predictor] (https://concrete-strength-prediction-fdhuddn6dbgytphbcypjsw.streamlit.app/)
