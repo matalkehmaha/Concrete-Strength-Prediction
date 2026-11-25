@@ -69,3 +69,8 @@ The model may help estimate concrete strength using mixture ingredients and curi
 I created an interactive Streamlit application that allows users to enter concrete mixture values and predict compressive strength using the trained Random Forest model.
 
 **Application Link:** [Open Concrete Strength Predictor](https://concrete-strength-prediction-fdhuddn6dbgytphbcypjsw.streamlit.app/)
+
+## AI Assistance Acknowledgment
+
+I used ChatGPT to help me understand the machine learning steps, develop and review Python code, and organize the project documentation.
+I ran the code in Google Colab, reviewed the results, and tested the trained model and Streamlit application.
