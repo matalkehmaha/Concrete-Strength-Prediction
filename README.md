@@ -68,4 +68,4 @@ The model may help estimate concrete strength using mixture ingredients and curi
 
 I created an interactive Streamlit application that allows users to enter concrete mixture values and predict compressive strength using the trained Random Forest model.
 
-**Application Link:** [Open Concrete Strength Predictor] (https://concrete-strength-prediction-fdhuddn6dbgytphbcypjsw.streamlit.app/)
+**Application Link:** [Open Concrete Strength Predictor](https://concrete-strength-prediction-fdhuddn6dbgytphbcypjsw.streamlit.app/)
